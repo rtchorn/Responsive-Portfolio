@@ -1,0 +1,90 @@
+@media screen and (min-width: 980px) {
+    body {
+        background-color: lightgray;
+    }
+
+@media screen and (min-width: 768px) {
+    body {
+        background-color: lightgray;
+    }
+
+@media screen and (min-width: 640px) {
+    body {
+        background-color: lightgray;
+    }
+
+body {
+    background-color: lightgray;
+}
+
+
+
+h1 {
+    font-family: Georgia, Times, serif;
+    background: #4aaaa5;
+    padding: 10px 15px 10px 15px;
+    width: 275px;
+    color: white;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+.aboutme { 
+    background: white;
+    width: 500px;
+    padding: 45px;
+    margin: 100px 150px 100px 200px;
+
+}
+
+.portfolio {
+    background: white;
+    width: 550px;
+    padding: 1px 10px 15px 10px;
+    margin: 100px 150px 100px 200px;
+
+
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 50px;
+    margin: 100px 150px 100px 200px;
+    width: 500px;
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: gray;
+  text-align: right;
+  padding: 14px 40px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+legend {
+    font-family: Georgia, Times, serif;
+    font-size: 22px; 
+    color: #4aaaa5;
+    font-weight: bold;
+
+
+}
+
+
+
+
+
